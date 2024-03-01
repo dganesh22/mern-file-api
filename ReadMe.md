@@ -11,3 +11,4 @@
 multer -> express middleware used to upload files
 express-fileupload ->
 http-status-codes => to handle http status codes
+cors => cross origin resource sharing  
